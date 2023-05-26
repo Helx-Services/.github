@@ -21,13 +21,27 @@ Helx offers the following products and services:
 - **Helx Pay:** This is Helx's payment gateway for receiving and sending funds between Helx wallets and/or external credit/debit cards.
 
 ## Github Collaboration Structure
+ All members of these organization should have a very good knowledge of how to use Github and Git. Questions can be thrown in the Discussion tab. More information on collaboration can be found in each repository's README file.
 
 ## Organization Teams
-
-## Repository Rules
+Members are grouped into teams based on function and each team has access to the repositories designated them. Before anything, it is recommended that each repository's README file should be thoroughly perused to get acquainted with the tools and code structure of such repository. Some teams include
+- Backend team
+- Frontend team
+- Mobile development team
 
 ## Contribution guidelines
+Note the following points when contributing to any repository:
+- Do not commit changes directly to the default branch. Always push to a different branch and create a pull request.
+- Adhere to the repository standards and code structure including writing necessary unit and feature tests.
+- All pull requests should not be merged by the member who created it. Other members of the team affected should kindly review such request and merge as appropriate.
+- After merging pull requests, delete branches no longer needed.
+- Regularly check for issues and pull requests and diligently follow through with assigned items.
+- Thoroughly verify if an issue is worth opening or can be quickly fixed before creating one.
+
+## Discussions
+Discussions can be held in the Discussions tab of this organization. Discussions can practically vary over a wide range of topics. Individuals with access to the discussions repository should kindly take a look at [Github's discussions documentation](https://docs.github.com/en/discussions/quickstart) to get acquainted with managing discussions.
 
 ## Useful Resources
+Any useful development resource for a repository will be displayed in the repository's README file. Regularly check the documentations of all repositories you have access to for updates.
 
-Cheers to collaboration and achievements.🎉
+Kickstart your contribution career by visting any repository your team has access to and readding the docs. Cheers to collaboration and achievements.🎉
