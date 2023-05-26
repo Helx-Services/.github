@@ -38,6 +38,8 @@ Note the following points when contributing to any repository:
 - Regularly check for issues and pull requests and diligently follow through with assigned items.
 - Thoroughly verify if an issue is worth opening or can be quickly fixed before creating one.
 
+Also take a look at Helx's [Code of Conduct](https://github.com/Helx-Services/.github/blob/main/CODE_OF_CONDUCT.md) before making any contributions.
+
 ## Discussions
 Discussions can be held in the Discussions tab of this organization. Discussions can practically vary over a wide range of topics. Individuals with access to the discussions repository should kindly take a look at [Github's discussions documentation](https://docs.github.com/en/discussions/quickstart) to get acquainted with managing discussions.
 
