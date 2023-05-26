@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Helx Organization's Code of Conduct
 
 ## Our Pledge
 
