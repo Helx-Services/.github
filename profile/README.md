@@ -41,7 +41,7 @@ Note the following points when contributing to any repository:
 Also take a look at Helx's [Code of Conduct](https://github.com/Helx-Services/.github/blob/main/CODE_OF_CONDUCT.md) before making any contributions.
 
 ## Discussions
-Discussions can be held in the Discussions tab of this organization. Discussions can practically vary over a wide range of topics. Individuals with access to the discussions repository should kindly take a look at [Github's discussions documentation](https://docs.github.com/en/discussions/quickstart) to get acquainted with managing discussions.
+Discussions can be held in the [Discussions](https://github.com/orgs/Helx-Services/discussions) tab of this organization. Discussions can practically vary over a wide range of topics. Individuals with access to the discussions repository should kindly take a look at [Github's discussions documentation](https://docs.github.com/en/discussions/quickstart) to get acquainted with managing discussions.
 
 ## Useful Resources
 Any useful development resource for a repository will be displayed in the repository's README file. Regularly check the documentations of all repositories you have access to for updates.
