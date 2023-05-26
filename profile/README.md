@@ -46,4 +46,7 @@ Discussions can be held in the [Discussions](https://github.com/orgs/Helx-Servic
 ## Useful Resources
 Any useful development resource for a repository will be displayed in the repository's README file. Regularly check the documentations of all repositories you have access to for updates.
 
-Kickstart your contribution career by visting any repository your team has access to and readding the docs. Cheers to collaboration and achievements.🎉
+Kickstart your contribution career by visting any repository your team has access to and readding the docs.
+
+
+Cheers to collaboration and achievements.🎉
