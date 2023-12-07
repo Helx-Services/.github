@@ -18,7 +18,6 @@ At Helx, we believe that our values are the foundation of our success and set us
 ## Products and Services
 Helx offers the following products and services:
 - **Acad:** Acad is a cloud-based software platform that connects lovers of education around the globe and simplifies the learning process for avid learners while at the same time bringing a sense of community to both students and tutors. With Acad, students can learn on the fly and connect with like-minded individuals from same field of study, and tutors can easily impart educational content in different forms, all from a single, user-friendly interface.
-- **Helx Pay:** This is Helx's payment gateway for receiving and sending funds between Helx wallets and/or external credit/debit cards.
 
 ## Github Collaboration Structure
  All members of these organization should have a very good knowledge of how to use Github and Git. Questions can be thrown in the Discussion tab. More information on collaboration can be found in each repository's README file.
@@ -27,7 +26,7 @@ Helx offers the following products and services:
 Members are grouped into teams based on function and each team has access to the repositories designated them. Before anything, it is recommended that each repository's README file should be thoroughly perused to get acquainted with the tools and code structure of such repository. Some teams include
 - Backend team
 - Frontend team
-- Mobile development team
+- Mobile app development team
 
 ## Contribution guidelines
 Note the following points when contributing to any repository:
@@ -37,6 +36,7 @@ Note the following points when contributing to any repository:
 - After merging pull requests, delete branches no longer needed.
 - Regularly check for issues and pull requests and diligently follow through with assigned items.
 - Thoroughly verify if an issue is worth opening or can be quickly fixed before creating one.
+- Do not push to production on Fridays, haha.
 
 Also take a look at Helx's [Code of Conduct](https://github.com/Helx-Services/.github/blob/main/CODE_OF_CONDUCT.md) before making any contributions.
 
@@ -46,7 +46,7 @@ Discussions can be held in the [Discussions](https://github.com/orgs/Helx-Servic
 ## Useful Resources
 Any useful development resource for a repository will be displayed in the repository's README file. Regularly check the documentations of all repositories you have access to for updates.
 
-Kickstart your contribution career by visting any repository your team has access to and readding the docs.
+Kickstart your contribution career by visting any repository your team has access to and reading it's docs.
 
 
 Cheers to collaboration and achievements.🎉
