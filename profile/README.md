@@ -1,4 +1,4 @@
-## Hi techie, welcome to this planet 👩‍💻
+## Hi techie, welcome to this planet :hugs:
 # Helx
 
 Helx is a technology startup focused on creating innovative solutions cutting across all industries with the core objective of facilitating connections and fostering a sense of community between individuals and businesses within a specific industry. In addition to fostering connections, Helx addresses various challenges faced by its target market.
